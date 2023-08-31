@@ -1,1 +1,1 @@
-First task for Shell basics
+All tasks for Shell Basics
